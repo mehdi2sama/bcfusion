@@ -1,6 +1,6 @@
 module github.com/bnb-chain/bcfusion
 
-go 1.20
+go 1.5
 
 require github.com/bnb-chain/go-sdk v1.3.2
 
